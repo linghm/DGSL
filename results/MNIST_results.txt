@@ -1,0 +1,4 @@
+mode=1.0,f=50.0
+dataset:MNIST,totalrun=20,nCluster=10,lambda=100,thr=0.02,thr_Z=0.01,lambda_Z=1,alpha1=0.6886,alpha2=0.1377,alpha2overalpha1=0.2000,lambda_M=10,Knearest_neighbor=(7,5),tol=0.0100,maxiter=50
+ACC:,avgrateB=0.8351,medianB=0.8365,stdB=0.0258\n,avgrateZ=0.7121,medianZ=0.7075,stdZ=0.0403\n,avgrateF=0.8369,medianF=0.8385,stdF=0.0255\n
+NMI:,avgrateB=0.7663,medianB=0.7635,stdB=0.0149\n,avgrateZ=0.6946,medianZ=0.6971,stdZ=0.0148\n,avgrateF=0.7662,medianF=0.7633,stdF=0.0150\n

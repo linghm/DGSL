@@ -1,0 +1,4 @@
+mode=1.0,f=130.0
+dataset:isolet1,totalrun=20,nCluster=26,lambda=100,thr=0.02,thr_Z=0,lambda_Z=0,alpha1=0.6162,alpha2=0.0616,alpha2overalpha1=0.1000,lambda_M=1,Knearest_neighbor=(51,21),tol=0.0100,maxiter=50
+ACC:,avgrateB=0.8246,medianB=0.8240,stdB=0.0192\n,avgrateZ=0.8288,medianZ=0.8269,stdZ=0.0188\n,avgrateF=0.8287,medianF=0.8266,stdF=0.0189\n
+NMI:,avgrateB=0.8550,medianB=0.8543,stdB=0.0076\n,avgrateZ=0.8553,medianZ=0.8553,stdZ=0.0074\n,avgrateF=0.8556,medianF=0.8553,stdF=0.0072\n

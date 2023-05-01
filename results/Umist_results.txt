@@ -1,0 +1,4 @@
+mode=1.0,f=40.0
+dataset:Umist,totalrun=20,nCluster=20,lambda=100,thr=0.1,thr_Z=0.01,lambda_Z=1,alpha1=8.4392,alpha2=0.4220,alpha2overalpha1=0.0500,lambda_M=100,Knearest_neighbor=(5,3),tol=0.0100,maxiter=50
+ACC:,avgrateB=0.8879,medianB=0.8939,stdB=0.0230\n,avgrateZ=0.3725,medianZ=0.3678,stdZ=0.0176\n,avgrateF=0.8907,medianF=0.8948,stdF=0.0268\n
+NMI:,avgrateB=0.9328,medianB=0.9316,stdB=0.0096\n,avgrateZ=0.5468,medianZ=0.5467,stdZ=0.0108\n,avgrateF=0.9334,medianF=0.9317,stdF=0.0102\n

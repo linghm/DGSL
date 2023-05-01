@@ -1,0 +1,4 @@
+mode=1.0,f=50.0
+dataset:USPS,totalrun=20,nCluster=10,lambda=100,thr=0.02,thr_Z=0.01,lambda_Z=1,alpha1=0.6546,alpha2=0.1309,alpha2overalpha1=0.2000,lambda_M=10,Knearest_neighbor=(7,5),tol=0.0100,maxiter=50
+ACC:,avgrateB=0.8984,medianB=0.9060,stdB=0.0293\n,avgrateZ=0.7553,medianZ=0.7560,stdZ=0.0037\n,avgrateF=0.9147,medianF=0.9135,stdF=0.0079\n
+NMI:,avgrateB=0.8426,medianB=0.8453,stdB=0.0121\n,avgrateZ=0.7802,medianZ=0.7794,stdZ=0.0055\n,avgrateF=0.8535,medianF=0.8538,stdF=0.0078\n

@@ -1,0 +1,4 @@
+mode=1.0,f=40.0
+dataset:COIL20,totalrun=20,nCluster=20,lambda=100,thr=0.2,thr_Z=0.03,lambda_Z=3,alpha1=12.2442,alpha2=0.2449,alpha2overalpha1=0.0200,lambda_M=100,Knearest_neighbor=(7,5),tol=0.0100,maxiter=50
+ACC:,avgrateB=0.6678,medianB=0.6819,stdB=0.0324\n,avgrateZ=0.4952,medianZ=0.5000,stdZ=0.0171\n,avgrateF=0.8510,medianF=0.8486,stdF=0.0066\n
+NMI:,avgrateB=0.8548,medianB=0.8642,stdB=0.0211\n,avgrateZ=0.6111,medianZ=0.6117,stdZ=0.0128\n,avgrateF=0.9472,medianF=0.9493,stdF=0.0068\n

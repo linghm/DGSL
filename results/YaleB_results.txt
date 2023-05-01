@@ -1,0 +1,4 @@
+mode=1.0,f=72.0
+dataset:YaleB,totalrun=20,nCluster=18,lambda=100,thr=0.005,thr_Z=0.0025,lambda_Z=0.25,alpha1=0.2466,alpha2=0.0049,alpha2overalpha1=0.0200,lambda_M=100,Knearest_neighbor=(4,3),tol=0.0100,maxiter=50
+ACC:,avgrateB=0.9542,medianB=0.9563,stdB=0.0083\n,avgrateZ=0.6866,medianZ=0.6817,stdZ=0.0164\n,avgrateF=0.9534,medianF=0.9559,stdF=0.0086\n
+NMI:,avgrateB=0.9342,medianB=0.9358,stdB=0.0092\n,avgrateZ=0.6891,medianZ=0.6890,stdZ=0.0093\n,avgrateF=0.9318,medianF=0.9329,stdF=0.0088\n
